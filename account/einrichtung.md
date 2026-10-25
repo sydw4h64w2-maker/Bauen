@@ -13,7 +13,7 @@ Verfügbarkeit kann nur TikTok selbst prüfen – beim Anlegen einfach testen.
 derselbe Look wie im Video. Wird auch klein im Feed sofort erkannt.
 
 ## 3. Bio (max. 80 Zeichen)
-> Jeden Tag 1 Notfall: A, B oder C? ✅ Nur geprüfte Fakten – Quellen im Video.
+> Dein Instinkt lügt. Jeden Tag ein Beweis. 🧠 Nur echte Fakten.
 
 Alternative:
 > Jeden Tag ein Notfall. Was tust du? A, B oder C? 🧠 Nur geprüfte Fakten.

@@ -1,9 +1,12 @@
 # Bio & Hashtags
 
 ## Bio (TikTok max. 80 Zeichen)
-1. **Jeden Tag 1 Notfall: A, B oder C? ✅ Nur geprüfte Fakten – Quellen im Video.** (75) ← Empfehlung
-2. Was tust du, wenn es ernst wird? 🆘 Jeden Tag neu – A, B oder C? (63)
-3. Würdest du überleben? 👀 Täglich eine Situation. Nur echte Fakten. (65)
+1. **Dein Instinkt lügt. Jeden Tag ein Beweis. 🧠 Nur echte Fakten.** (61) ← Empfehlung
+2. Du hast 3 Sekunden. Wähl falsch – und es wird gefährlich. ⏳ (59)
+3. Würdest du überleben? Finde es heraus – jeden Tag neu. ⏱️ (57)
+4. Die falsche Wahl kann tödlich sein. Teste dich täglich. ✅ (57)
+5. Tag 1 von 365: Lerne, was dich rettet. 🆘 A, B oder C? (53)
+6. Jeden Tag 1 Notfall: A, B oder C? ✅ Nur geprüfte Fakten – Quellen im Video. (75, erste Version)
 
 ## Hashtag-System (4–6 pro Video)
 | Art | Hashtags | Zweck |
