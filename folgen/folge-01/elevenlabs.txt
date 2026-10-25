@@ -1,0 +1,11 @@
+Du hast drei Sekunden. Wähl falsch – und es wird gefährlich. <break time="1.5s" />
+Du bist allein im Fahrstuhl. Zwanzigster Stock. <break time="1.5s" />
+Plötzlich … fällt er! <break time="1.5s" />
+Was tust du? A: Kurz vor dem Aufprall hochspringen. B: Dich an den Wänden festhalten. C: Dich flach auf den Boden legen. <break time="1.5s" />
+Drei. <break time="0.7s" /> Zwei. <break time="0.7s" /> Eins. <break time="1.5s" />
+Die meisten wählen A. <break time="1.5s" />
+Aus dem zwanzigsten Stock schlägst du mit über hundert Kilometern pro Stunde auf. Ein Sprung bremst dich nur um etwa vierzehn. Mythos widerlegt. <break time="1.5s" />
+Experten raten zu C: flach hinlegen. Der Aufprall verteilt sich dann auf deinen ganzen Körper statt auf Beine und Wirbelsäule. <break time="1.5s" />
+Eine Garantie ist das nicht. Aber die gute Nachricht: Fahrstühle hängen an mehreren Seilen und haben Fangbremsen. Ein echter freier Fall ist extrem selten. <break time="1.5s" />
+Hättest du richtig gewählt? Schreib A, B oder C in die Kommentare. <break time="1.5s" />
+Morgen: Treibsand.
