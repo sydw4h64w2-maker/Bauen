@@ -13,7 +13,7 @@ from common import (AMBER, BLUE, FIGURE, GREEN, GREY, RED, ROOT, SAND,
                     SAND_DARK, VIG_GREEN, VIG_RED, W, WHITE, Sfx, arrow_up,
                     build_captions, clamp, compose_frame, draw_choice,
                     draw_comment_prompt, draw_follow_button, draw_option,
-                    draw_tomorrow, ease_out, font, paste_vignette, punch, render,
+                    draw_bear, draw_tomorrow, ease_out, font, paste_vignette, punch, render,
                     rrect, text_c)
 
 DAY = 2
@@ -236,26 +236,6 @@ def scene_good(img, d, t):
         sc = punch(t, 44.22)
         rrect(d, (170, 430, 910, 570), 26, (14, 50, 32), outline=GREEN, width=6)
         text_c(d, (W // 2, 500), "UNMÖGLICH", 88 * sc, fill=GREEN, stroke=0)
-
-
-def draw_bear(d, cx, gy, s, t):
-    bob = 10 * s * abs(math.sin(t * 7))
-    gy -= bob
-    col, dark = (112, 76, 46), (80, 52, 30)
-    for lx in (-150, -70, 60, 130):  # Beine
-        sw = 18 * s * math.sin(t * 7 + lx)
-        d.rounded_rectangle((cx + (lx - 28) * s + sw, gy - 130 * s,
-                             cx + (lx + 28) * s + sw, gy), int(14 * s), fill=dark)
-    d.ellipse((cx - 230 * s, gy - 330 * s, cx + 190 * s, gy - 100 * s), fill=col)
-    d.ellipse((cx - 120 * s, gy - 380 * s, cx + 80 * s, gy - 220 * s), fill=col)
-    hx, hy = cx + 200 * s, gy - 270 * s
-    for ex in (-55, 45):
-        d.ellipse((hx + (ex - 24) * s, hy - 110 * s, hx + (ex + 24) * s, hy - 62 * s),
-                  fill=dark)
-    d.ellipse((hx - 95 * s, hy - 90 * s, hx + 95 * s, hy + 90 * s), fill=col)
-    d.ellipse((hx + 30 * s, hy - 5 * s, hx + 130 * s, hy + 70 * s), fill=(150, 108, 70))
-    d.ellipse((hx + 95 * s, hy + 5 * s, hx + 128 * s, hy + 35 * s), fill=(20, 15, 12))
-    d.ellipse((hx + 10 * s, hy - 40 * s, hx + 34 * s, hy - 16 * s), fill=(20, 15, 12))
 
 
 def scene_end(img, d, t):
