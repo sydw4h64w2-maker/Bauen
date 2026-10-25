@@ -6,5 +6,5 @@
 - [ ] Cover: Frame mit „ÜBERLEBST DU DAS?“ (Sekunde 1) wählen
 - [ ] Beschreibung aus beschreibung.txt kopieren
 - [ ] Erster eigener Kommentar: „Ich hätte A gewählt 😅 – und du?“ (fördert Antworten)
-- [ ] Posten zwischen 18 und 21 Uhr
+- [ ] Uhrzeit notieren (z. B. abends testen) – nach 1–2 Wochen in der TikTok-Analyse prüfen, wann deine Zuschauer aktiv sind
 - [ ] Nach 1 Stunde: auf die ersten Kommentare antworten
