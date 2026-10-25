@@ -17,4 +17,4 @@ Jede Zeile an die Zeitmarke legen (Untertitel im Video = genau dieser Text).
 | 0:27.4 | Der Aufprall verteilt sich auf den ganzen Körper. |
 | 0:30.3 | Keine Garantie – aber: Fahrstühle haben mehrere Seile und Fangbremsen. Ein echter freier Fall ist extrem selten. |
 | 0:35 | Hättest du richtig gewählt? Schreib A, B oder C in die Kommentare! |
-| 0:39.5 | Morgen: Treibsand. |
+| 0:39.5 | Und morgen: Du steckst im Treibsand. Und je mehr du kämpfst, desto tiefer zieht er dich runter. Folg mir – sonst erfährst du nie, wie du da rauskommst. |

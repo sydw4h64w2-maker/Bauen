@@ -120,7 +120,8 @@ CAPTIONS = [
     (35.1, 36.8, "Hättest du richtig gewählt?"),
     (36.8, 38.3, "Schreib A, B oder C"),
     (38.3, 39.6, "in die Kommentare!"),
-    (39.6, 42.0, "Morgen: Treibsand."),
+    (39.6, 41.0, "Morgen: Treibsand."),
+    (41.0, 42.0, "Je mehr du kämpfst …"),
 ]
 
 

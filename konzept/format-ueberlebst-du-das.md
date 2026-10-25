@@ -41,7 +41,7 @@ und kommen zusätzlich in die Videobeschreibung.
 > **Wahl:** Was tust du? A: Kurz vor dem Aufprall hochspringen. B: Dich an den Wänden festhalten. C: Dich flach auf den Boden legen. *(Countdown 3 – 2 – 1)*
 > **Fehler:** Die meisten wählen A. Aber aus dem 20. Stock schlägst du mit rund 100 km/h auf. Selbst ein Weltklasse-Sprung bremst dich nur um ein paar km/h. Die MythBusters haben es getestet: funktioniert nicht.
 > **Auflösung:** Experten raten zu C. Flach liegend verteilt sich der Aufprall auf deinen ganzen Körper, statt auf Beine und Wirbelsäule. Eine Garantie ist das nicht. Aber die gute Nachricht: Fahrstühle hängen an mehreren Seilen und haben Fangbremsen. Ein echter freier Fall ist extrem selten.
-> **Abschluss:** Hättest du richtig gewählt? Schreib's in die Kommentare. Morgen: Du steckst im Treibsand.
+> **Abschluss:** Hättest du richtig gewählt? Schreib's in die Kommentare. Und morgen: Du steckst im Treibsand. Und je mehr du kämpfst, desto tiefer zieht er dich runter. Folg mir – sonst erfährst du nie, wie du da rauskommst.
 
 ## Themenplan Woche 1 (geprüft, Quellen in `quellen.md`)
 | Tag | Szenario | Falsche „logische“ Wahl | Richtige Antwort | Überraschender Fakt |
