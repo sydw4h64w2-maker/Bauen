@@ -1,0 +1,9 @@
+Ein Bär rennt auf dich zu. Du hast zwei Sekunden. <break time="1s" />
+Du wanderst in Kanada. Plötzlich bricht ein Braunbär aus dem Gebüsch – und stürmt los. <break time="1s" />
+Was tust du? A: So schnell du kannst wegrennen. B: Dich groß machen und zurückschlagen. C: Dich auf den Bauch legen und tot stellen. <break time="1s" />
+Drei. <break time="0.7s" /> Zwei. <break time="0.7s" /> Eins. <break time="1s" />
+Die meisten wählen A. Aber Wegrennen kann den Angriff erst auslösen. Die US-Nationalparkbehörde sagt ganz klar: Niemals rennen. <break time="1s" />
+Greift der Braunbär wirklich an, ist C richtig. Leg dich flach auf den Bauch, Hände in den Nacken, Rucksack bleibt an, Beine auseinander – damit er dich nicht umdrehen kann. Bleib still liegen, bis er weg ist. <break time="1s" />
+Aber Achtung: Ist es ein Schwarzbär, ist Totstellen genau falsch. Dann musst du kämpfen – Schläge auf Gesicht und Schnauze. <break time="1s" />
+Hättest du's gewusst? Schreib A, B oder C in die Kommentare. <break time="1s" />
+Und morgen: Das Meer zieht dich raus. Du schwimmst mit aller Kraft zum Strand – und kommst trotzdem nicht an. Folg mir – sonst kämpfst du gegen einen Gegner, den du nicht besiegen kannst.
