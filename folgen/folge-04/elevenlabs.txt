@@ -1,0 +1,9 @@
+Du schwimmst mit aller Kraft – und das Ufer wird trotzdem kleiner. <break time="1s" />
+Eine Strömung zieht dich vom Strand weg. Raus aufs Meer. <break time="1s" />
+Was tust du? A: Mit aller Kraft zurück zum Ufer schwimmen. B: Abtauchen und unter der Strömung durch. C: Parallel zum Strand schwimmen. <break time="1s" />
+Drei. <break time="0.7s" /> Zwei. <break time="0.7s" /> Eins. <break time="1s" />
+Die meisten wählen A. Aber diese Strömung kann schneller sein als ein Olympiaschwimmer. Wer dagegen anschwimmt, wird müde – und genau das ist das Gefährliche. <break time="1s" />
+Richtig ist C. Die Strömung zieht dich nicht nach unten, sondern nur nach draußen. Schwimm parallel zum Strand, bis du raus bist – dann zurück ans Ufer. Schaffst du das nicht: Lass dich treiben, wink und ruf um Hilfe. <break time="1s" />
+Und siehst du jemanden in der Strömung: Spring nicht hinterher – viele Opfer sind Helfer. Wirf ihm etwas, das schwimmt, und hol die Rettungsschwimmer. <break time="1s" />
+Hättest du's gewusst? Schreib A, B oder C in die Kommentare. <break time="1s" />
+Und morgen: Dein Auto stürzt in einen See. Du hast ungefähr eine Minute. Was du in dieser Minute tust, entscheidet alles. Folg mir – damit du es weißt, bevor du es brauchst.
