@@ -1,0 +1,9 @@
+Du sinkst. Und je mehr du kämpfst, desto schneller geht es. <break time="1s" />
+Du steckst bis zu den Knien im Treibsand. <break time="1s" />
+Was tust du? A: Das Bein mit aller Kraft rausziehen. B: Dich von einem Freund rausziehen lassen. C: Ganz ruhig die Beine langsam bewegen. <break time="1s" />
+Drei. <break time="0.7s" /> Zwei. <break time="0.7s" /> Eins. <break time="1s" />
+Die meisten wählen A oder B. Aber ein Bein auch nur einen Zentimeter pro Sekunde rauszuziehen, braucht so viel Kraft, wie ein Auto anzuheben. <break time="1s" />
+Richtig ist C. Durch langsame Bewegungen fließt Wasser nach, der Sand wird locker, und du kommst Stück für Stück frei. <break time="1s" />
+Und die gute Nachricht: Treibsand ist etwa doppelt so dicht wie dein Körper. Komplett versinken wie im Film? Unmöglich. <break time="1s" />
+Hättest du's gewusst? Schreib A, B oder C in die Kommentare. <break time="1s" />
+Und morgen: Ein Bär rennt auf dich zu. Dein Instinkt schreit: Lauf! Und genau das ist der Fehler. Folg mir – sonst weißt du nicht, was dich rettet.
