@@ -1,0 +1,9 @@
+Du hast ungefähr sechzig Sekunden. Danach wird es fast unmöglich. <break time="1s" />
+Dein Auto rutscht von der Straße – direkt in einen See. Noch schwimmt es. <break time="1s" />
+Was tust du? A: Sofort den Notruf wählen. B: Die Tür aufdrücken. C: Gurt lösen, Fenster auf, raus. <break time="1s" />
+Drei. <break time="0.7s" /> Zwei. <break time="0.7s" /> Eins. <break time="1s" />
+Die meisten wählen A oder B. Aber der Wasserdruck hält die Tür zu – sie geht erst auf, wenn das Auto voll Wasser ist. Und ein Anruf kostet dich genau die Zeit, die du nicht hast. <break time="1s" />
+Richtig ist C. Der Forscher Gordon Giesbrecht hat das in über achtzig Tests mit Autos im Wasser untersucht. Seine Regel: Gurt. Fenster. Raus. Nach etwa einer Minute drückt das Wasser so stark, dass auch das Fenster nicht mehr aufgeht. <break time="1s" />
+Sind Kinder dabei: Kinder zuerst durchs Fenster, dann du. Und den Notruf erst, wenn du draußen bist. <break time="1s" />
+Hättest du's gewusst? Schreib A, B oder C in die Kommentare. <break time="1s" />
+Und morgen: Ein Gewitter erwischt dich draußen. Ein Tipp, den viele kennen, schützt dich kaum. Folg mir – sonst erfährst du nicht, was wirklich hilft.
